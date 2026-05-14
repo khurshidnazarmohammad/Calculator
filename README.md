@@ -1,10 +1,25 @@
-Simple Calculator (Python)
+🧮 Calculator Project
 
-Ein einfacher Taschenrechner in Python für die vier Grundrechenarten: Addition, Subtraktion, Multiplikation und Division. Das Programm läuft in der Kommandozeile und nimmt zwei Zahlen sowie die gewünschte Operation vom Benutzer entgegen.
+Ein einfacher Taschenrechner in zwei Versionen:
 
-Voraussetzungen: Python 3.x
-Start: python calculator.py
-Bedienung: Operation (1–4) auswählen, zwei Zahlen eingeben, Ergebnis im Terminal sehen.
+🌐 Web-Version
+HTML, CSS und JavaScript
+Zwei Zahlen eingeben, Operation wählen und Ergebnis im Browser sehen.
+Einfach index.html im Browser öffnen.
 
-Dieses Mini-Projekt dient zum Üben von Python-Funktionen, Bedingungen und Benutzereingaben.
-Lizenz: MIT
+🐍 Python-Version
+Ein Taschenrechner für das Terminal.
+Zahlen eingeben, Operation auswählen und Ergebnis wird ausgegeben.
+
+Start:
+Bash
+python calculator.py
+📁 Struktur
+
+project/
+├── index.html
+├── style.css
+└── calculator.py
+
+💡 Zweck
+Übung für Programmierlogik und einfache Webentwicklung.
